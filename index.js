@@ -3,7 +3,7 @@ const http = require('http')
 let notes = [
     {
         id: 1,
-        "content": "Me gusta dibujar en blanco y negro",
+        "content": "Me gusta dibujar en blanco",
         "date": "2020-05-30T17:30:31.098Z",
         "important": true
     },
